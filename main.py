@@ -12,7 +12,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_community.llms import Ollama
 from PIL import Image
-from IPython.display import Audio
+
 
 
 def img_to_text(img):
